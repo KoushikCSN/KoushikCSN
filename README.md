@@ -6,7 +6,7 @@
 
 Welcome to my GitHub! This repository showcases my extensive work across **VLSI/ASIC design**, **High-Performance Computing (HPC)**, **Digital Signal Processing (DSP)**, **Embedded Systems**, **Quantum Computing**, **RF** and more. I bridge academia and industry to develop innovative solutions for cutting-edge technologies.
 
----
+---											
 
 ## 🌟 **Areas of Expertise**  
 
@@ -87,17 +87,36 @@ Welcome to my GitHub! This repository showcases my extensive work across **VLSI/
 - [Photonic Circuit Design](https://github.com/KoushikCSN/photonic-design)  
 - [Laser Modulation Simulations](https://github.com/KoushikCSN/laser-simulations)  
 
+
 ---
 
 ## 🔧 **Tools & Technologies**  
 
-| **Category**             | **Tools**                                                                 |
-|--------------------------|---------------------------------------------------------------------------|
-| **Topics/Coursework**    | Circuit Theory, Digital Logic and Analog Design, CMOS VLSI IC and SOC, Programmable Logic Devices, Computer System Architecture, RealTime Embedded, High Performance and Quantum Computing, Control Theory, Signals and Systems, Probability Theory, EM Waves, RF Microwave and Antenna, Digital Signal Processing, Digital and Analog Comm., Internet Network Arch. Protocol, Cellular Wireless Comm., Radar, Software & Test Development Life Cycle, Java, Data Structures and Algorithms, DBMS, UML, Data Analytics, Machine Learning |
-| **EDA Tools**            | ASAP 7nm FinFET, 45nm GPDK, Skywater 130nm, 600nm AMI06 PDK, Modelsim, Spectre, Hpsice, Xilinx Vivado, Cadence Virtuoso, Synopsys VCS, Verdi, Tina TI, Proteus, Vitis, Catapult HLS, Keysight ADS, Genus, Primesim, yosys, openlane, icarus iverilog, verilator|
-| **Programming**          | Verilog, VHDL, SystemVerilog, Python, MATLAB, C                          |
-| **Hardware**             | ARM STM32, RISCV, FPGA (Artix-7, Basys3), 8051                           |
-| **Quantum Tools**        | Qiskit, IBM Quantum Experience                                           |
+|            **Category**              |                               **Tools**                                   |
+|--------------------------------------|---------------------------------------------------------------------------|
+| **Topics/Coursework**                | Circuit Theory, Digital Logic and Analog Design, CMOS VLSI IC and SOC, Programmable Logic Devices, Computer System Architecture, RealTime Embedded, High Performance and Quantum Computing, Control Theory, Signals and Systems, Probability Theory, EM Waves, RF Microwave and Antenna, Digital Signal Processing, Digital and Analog Comm., Internet Network Arch. Protocol, Cellular Wireless Comm., Radar, Software & Test Development Life Cycle, Java, Data Structures and Algorithms, DBMS, UML, Data Analytics, Machine Learning |
+| **Hardwares**                        | x86, ARM Cortex4 STM32, RISCV, FPGA, DSP Processors, Arduino, Raspberry Pi, 8051, CUDA & HIP basics, OpenMPI, OpenACC |
+| **Digital ASIC/SOC Design**          | STA, Clocking, DRC, SDC, LVS, Lint,  Clock Domain Crossing, Signal Integrity, datapaths, 
+memory subsystems, counters, shift registers, finite state machine, ROM, SRAM, DRAM, MBIST |
+| **Embedded, Firmware**               | Embedded C/C++, Assembly Language, Mbed, RTOS, Platform IO, Arduino IDE, Keil |
+| **Protocols**                        | SPI, UART, I2C, I3C, USB, CAN, PCIe, AMBA, DDR, Ethernet, Bluetooth |
+| **HDL Programming, Packages**        | Verilog, VHDL, System Verilog, IEEE Unisim|
+| **PDK, EDA Tools**                   | ASAP 7nm FinFET, 45nm GPDK, Skywater 130nm, 600nm AMI06 PDK, Modelsim, Spectre, Hpsice, Xilinx Vivado, Cadence Virtuoso, Synopsys VCS, Verdi, Tina TI, Proteus, Vitis, Catapult HLS, Keysight ADS, Genus, Primesim, yosys, openlane, icarus iverilog, verilator | 
+| **Analog Circuitry, RF**             | Op-Amps, ADCs, DACs, DC-DC Converters, Amplifiers, Oscillators, Waveguides, Transmission Lines, Antennae |
+| **Testing & Lab Tools**              | Oscilloscopes, Multimeters, Signal Generators, Logic Analyzers, Spectrum Analyzers, Network Analyzers, Soldering, PCB Design, Remote control via USB/Network, using Python | 
+| **Quantum Computing**                | Quantum Mechanics intro, QASM Simulators, QFT, Shor, QKD, Error Correction, Transpiling Circuits, Pulse Programming, Quantum Communications, Optimization, IBM Qiskit, QML, Google CirQ, Intel Quantum SDK |
+| **Cybersecurity**                    | RC5, AES-128	|
+| **Backend Softwares**                | C, C++, Java, Spring Boot, Python, R, MATLAB, Perl, SQL, Shell Scripting & slurm, Node.js, tcl scripting |
+| **Frontend Languages**               | HTML5, CSS3, Javascript, jquery |
+| **Packages/Frameworks**              | Numpy, scipy, Pandas, cocotb, scikit-learn, TensorFlow, Keras, PyTorch, JAX, XLA, OpenCV, spacy, NLTK, Transformers, Tokenizers, Spring Boot, Robot Framework, ReactJS, Angular, Blas, pycparser, tqdb, nvidia-cuda, safetensors, regex, openai |
+| **Database, Cloud, CI/CD**           | SQL Server, SSRS, SSIS, MySQL, Google Cloud, AWS, Docker, Singularities, Jenkins, CI/CD |
+| **Testing**                          | Regression, Progression, Selenium, Robot Framework, VBScripting, Cucumber |
+| **OS, Others**                       | Windows, Unix/Linux (Debian, Ubuntu), REST API Development, Ansible, Git, GitHub |
+| **Tools**                            | VS Code, Eclipse IDE, Anaconda, SSMS, Pycharm, Google Colab, Jupyter Notebook, Putty, MobaXterm, Wireshark, Cisco Packet Tracer |
+| **Compilers/Interpreters**           | Make, Makefile, CMake, GCC, NVIDIA HPC SDK, Intel oneAPI, JVM, Cython |
+| **Office, Visualizations**           | MS-Word, Excel, Powerpoint, Google- Docs, Slides, Spreadsheet, Tableau, Power BI |
+| **Certifications**                   | NPTEL: Advanced Quantum Computing (Ongoing), Cisco: CCNA (Ongoing), TI: DSP Drishti,Udemy, Cognitive Class AI: Statistics, Deep Learning, ML, Data Science, Python 101, SNIST: Quadcopter, 5G LTE, NYU: OpenACC, Skillsoft: API Security, DBA, Automation Testing, Cloud Security, Agile, Scrum etc. |
+
 
 ---
 
