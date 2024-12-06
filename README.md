@@ -1,10 +1,7 @@
-## Hi there 👋
-# 👋 Welcome to My GitHub Profile  
-
 ### **Sriramnarayan Koushik Chitrapu**  
 📍 Electrical & Computer Engineer | 🎓SciTech Innovator and Researcher
 
-Welcome to my GitHub! This repository showcases my extensive work across **VLSI/ASIC design**, **High-Performance Computing (HPC)**, **Digital Signal Processing (DSP)**, **Embedded Systems**, **Quantum Computing**, **RF** and more. I bridge academia and industry to develop innovative solutions for cutting-edge technologies.
+Welcome! Hope you are doing good. My work extensively concentrates on **VLSI/ASIC design**, **High-Performance Computing (HPC)**, **Digital Signal Processing (DSP)**, **Embedded Systems**, **Quantum Computing**, **RF** and more facilitating in bridging industry, academia for developing innovative solutions for cutting-edge technologies in those domains.
 
 ---											
 
